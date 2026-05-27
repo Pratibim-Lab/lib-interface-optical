@@ -1,0 +1,17 @@
+{
+  "id": "Interface_Optical/TSOP583xx:TSOP583xx",
+  "name": "TSOP583xx",
+  "library": "Interface_Optical",
+  "file": "Interface_Optical.kicad_symdir/TSOP583xx.kicad_sym",
+  "description": "Photo Modules for PCM Remote Control Systems",
+  "datasheet": "http://www.vishay.com/docs/82462/tsop581.pdf",
+  "keywords": "opto IR receiver",
+  "footprint": "OptoDevice:Vishay_MINICAST-3Pin",
+  "extends": "TSOP581xx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-optical@master/parts/TSOP583xx/",
+  "part_path": "parts/TSOP583xx",
+  "symbol_file": "parts/TSOP583xx/TSOP583xx.kicad_sym",
+  "source_library": "Interface_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:08.561Z"
+}

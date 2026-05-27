@@ -1,0 +1,17 @@
+{
+  "id": "Interface_Optical/TSOP17xx:TSOP17xx",
+  "name": "TSOP17xx",
+  "library": "Interface_Optical",
+  "file": "Interface_Optical.kicad_symdir/TSOP17xx.kicad_sym",
+  "description": "Photo Modules for PCM Remote Control Systems",
+  "datasheet": "http://www.micropik.com/PDF/tsop17xx.pdf",
+  "keywords": "opto IR receiver",
+  "footprint": "OptoDevice:Vishay_CAST-3Pin",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-optical@master/parts/TSOP17xx/",
+  "part_path": "parts/TSOP17xx",
+  "symbol_file": "parts/TSOP17xx/TSOP17xx.kicad_sym",
+  "source_library": "Interface_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:08.479Z"
+}

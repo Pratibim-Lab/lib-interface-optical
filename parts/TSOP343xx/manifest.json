@@ -1,0 +1,17 @@
+{
+  "id": "Interface_Optical/TSOP343xx:TSOP343xx",
+  "name": "TSOP343xx",
+  "library": "Interface_Optical",
+  "file": "Interface_Optical.kicad_symdir/TSOP343xx.kicad_sym",
+  "description": "IR Receiver Modules for Remote Control Systems",
+  "datasheet": "http://www.vishay.com/docs/82490/tsop321.pdf",
+  "keywords": "opto IR receiver",
+  "footprint": "OptoDevice:Vishay_MOLD-3Pin",
+  "extends": "TSDP341xx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-optical@master/parts/TSOP343xx/",
+  "part_path": "parts/TSOP343xx",
+  "symbol_file": "parts/TSOP343xx/TSOP343xx.kicad_sym",
+  "source_library": "Interface_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:08.527Z"
+}

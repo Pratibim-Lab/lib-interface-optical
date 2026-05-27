@@ -1,0 +1,17 @@
+{
+  "id": "Interface_Optical/TSMP58138:TSMP58138",
+  "name": "TSMP58138",
+  "library": "Interface_Optical",
+  "file": "Interface_Optical.kicad_symdir/TSMP58138.kicad_sym",
+  "description": "Photo Module (Repeater) for PCM Remote Control Systems",
+  "datasheet": "http://www.vishay.com/docs/82486/tsmp58138.pdf",
+  "keywords": "opto IR repeater receiver",
+  "footprint": "OptoDevice:Vishay_MINICAST-3Pin",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-optical@master/parts/TSMP58138/",
+  "part_path": "parts/TSMP58138",
+  "symbol_file": "parts/TSMP58138/TSMP58138.kicad_sym",
+  "source_library": "Interface_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:08.475Z"
+}

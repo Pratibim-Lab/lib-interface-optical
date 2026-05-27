@@ -1,0 +1,17 @@
+{
+  "id": "Interface_Optical/TSMP58000:TSMP58000",
+  "name": "TSMP58000",
+  "library": "Interface_Optical",
+  "file": "Interface_Optical.kicad_symdir/TSMP58000.kicad_sym",
+  "description": "Photo Module (Amplify&Condition) for PCM Remote Control Systems",
+  "datasheet": "http://www.vishay.com/docs/82485/tsmp58000.pdf",
+  "keywords": "opto IR receiver",
+  "footprint": "OptoDevice:Vishay_MINICAST-3Pin",
+  "extends": "TSMP58138",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-optical@master/parts/TSMP58000/",
+  "part_path": "parts/TSMP58000",
+  "symbol_file": "parts/TSMP58000/TSMP58000.kicad_sym",
+  "source_library": "Interface_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:08.472Z"
+}

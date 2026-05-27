@@ -1,0 +1,17 @@
+{
+  "id": "Interface_Optical/IS471F:IS471F",
+  "name": "IS471F",
+  "library": "Interface_Optical",
+  "file": "Interface_Optical.kicad_symdir/IS471F.kicad_sym",
+  "description": "Photo Modules for PCM Remote Control Systems",
+  "datasheet": "http://www.micropik.com/PDF/tsop17xx.pdf",
+  "keywords": "opto IR receiver",
+  "footprint": "OptoDevice:Sharp_IS471F",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-optical@master/parts/IS471F/",
+  "part_path": "parts/IS471F",
+  "symbol_file": "parts/IS471F/IS471F.kicad_sym",
+  "source_library": "Interface_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:08.455Z"
+}

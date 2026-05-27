@@ -1,0 +1,17 @@
+{
+  "id": "Interface_Optical/IS485:IS485",
+  "name": "IS485",
+  "library": "Interface_Optical",
+  "file": "Interface_Optical.kicad_symdir/IS485.kicad_sym",
+  "description": "Built-in Amplifier Type OPIC Light Detector",
+  "datasheet": "https://media.digikey.com/pdf/Data%20Sheets/Sharp%20PDFs/is485,486_e.pdf",
+  "keywords": "opto receiver amplifier light detector OPIC",
+  "footprint": "OptoDevice:Sharp_IS485",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-interface-optical@master/parts/IS485/",
+  "part_path": "parts/IS485",
+  "symbol_file": "parts/IS485/IS485.kicad_sym",
+  "source_library": "Interface_Optical.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:05:08.456Z"
+}
